@@ -1,0 +1,17 @@
+Napisać dowolny program, który zobrazuje zjawisko przepełnienia
+
+sterty Java (Java heap)
+
+• Program powinien kończyć swoje działanie wyjątkiem
+
+OutOfMemoryError
+
+• Projekt Maven 3 z wykorzystaniem Exec plugin (http://
+
+www.mojohaus.org/exec-maven-plugin/) do uruchomienia
+
+• Źródła w git (publiczne repo jest ok)
+
+• Rozwiązanie - wysłanie linku do repo na zadania-jvm@jitsolutions.pl
+
+• W pliku README wyjaśnić co powoduje przepełnienie pamięci.

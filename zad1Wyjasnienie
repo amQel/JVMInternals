@@ -1,0 +1,4 @@
+Uruchomienie :
+ mvn exec:java -Dexec.mainClass="com.ugJVMInernals.app.Ome"
+
+Próba zarezerwowania większej ilości pamięci niż jest dostępna.
