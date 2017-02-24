@@ -1,1 +1,6 @@
 ThreadLocal<M> MeType
+
+
+Field fld = Class.class.getDeclaredField(FieldName);
+Class.class.getDeclaredField(FieldName).setAccesible(true);
+fld.get
