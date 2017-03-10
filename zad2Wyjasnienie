@@ -1,0 +1,7 @@
+Uruchomienie :
+	mvn exec:java -Dexec.mainClass="com.ugJVMInternals.zad2.app.ObjToJsonConverter"
+	
+	
+konwerter POJO to JSON 
+
+działa dla prostych typów oraz list. Zaimplementowany prosty przykład.
